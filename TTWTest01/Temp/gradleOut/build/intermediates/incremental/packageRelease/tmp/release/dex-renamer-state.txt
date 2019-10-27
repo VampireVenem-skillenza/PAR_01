@@ -1,4 +1,0 @@
-#Sun Oct 27 01:28:38 IST 2019
-base.0=C\:\\Users\\Vampire Venem\\Desktop\\Skillenza\\TTWTest01\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
-path.0=classes.dex
-renamed.0=classes.dex
