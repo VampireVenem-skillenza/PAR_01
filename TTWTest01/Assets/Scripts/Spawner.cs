@@ -63,7 +63,7 @@ public class Spawner : MonoBehaviour
      //     			break;
      //     }
 
-         yield return new WaitForSeconds(1f);//Wrong (For Now)
+         yield return new WaitForSeconds(4f);
         //  int k=0;
         // for(int i=0;i<3;i++)
         // {
